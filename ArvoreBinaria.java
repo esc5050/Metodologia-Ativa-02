@@ -150,7 +150,7 @@ public class ArvoreBinaria {
         } 
         else if (opcao == 4) {
             System.out.println("Saindo do programa...");
-            System.exit(0); // termina o programa imediatamente
+            System.exit(0);
         } 
         else {
             System.out.println("Opção inválida!");
@@ -188,4 +188,5 @@ public class ArvoreBinaria {
         }
     }
 }
+
 
